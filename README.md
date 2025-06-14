@@ -46,6 +46,6 @@ This project is a Spring Boot-based web API designed to act as a proxy or integr
 
     Running local LLM clients without exposing your API key in the frontend
 
-![image](https://github.com/user-attachments/assets/fe0544b6-e9e4-45cc-839f-c4c8daf677ea) Screenshot
+🧩 Screenshot
 ![image](https://github.com/user-attachments/assets/ef4655d4-2251-47d0-b430-f814719ba5d1)
 
